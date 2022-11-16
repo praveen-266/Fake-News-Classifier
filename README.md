@@ -1,6 +1,5 @@
-# Fake-News-Classifier-Deployment       
-                 
-An end-to-end machine learning NLP project aimed to predicting / classifying a given news artilcle as fake or real.     
+# Fake-News-Classifier   
+                    
 # Libraries used      
 * pandas     
 * scikit-learn     
